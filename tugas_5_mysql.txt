@@ -1,0 +1,34 @@
+**Tugas 5**
+
+1. Apa pengertian dari character set?
+
+    Character set (biasa disingkat sebagai charset) adalah kumpulan karakter yang bisa dipahami oleh komputer.
+
+2. Apa istilah lain dari database?
+
+    Schema merupakan istilah lain dari database sehingga bisa digunakan sebagai perintah alternatif.
+
+3. Tuliskan query untuk menampilkan character set di MYSQL!
+
+        SHOW CHARACTER SET;
+
+4. Tuliskan query untuk melihat collation yang terdapat di MYSQL!
+
+        SHOW COLLATION;
+
+5. Sebutkan 5 tipe data numeric pada MYSQL!
+    1. TINYINT
+    2. SMALLINT
+    3. MEDIUMINT
+    4. INT
+    5. FLOAT
+6. Sebutkan 5 tipe data string pada MYSQL!
+    1. CHAR
+    2. VARCHAR
+    3. TINYTEXT
+    4. TEXT
+    5. MEDIUMTEXT
+7. Sebutkan 3 tipe data date pada MYSQL!
+    1. DATE
+    2. TIME
+    3. DATETIME
